@@ -79,8 +79,12 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 * Goedkope electriciteit
 * Mining-pools
 
+!SLIDE center
 # Economie
-## Totale aantal in omloop
+
+!SLIDE center
+![Total Bitcoins](img/Total_bitcoins_over_time_graph.png)
+
 ## Totale marktwaarde
 ## Deflatie versus Inflatie
 
