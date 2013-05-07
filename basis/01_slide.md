@@ -190,6 +190,17 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 ## Offline wallets
 ## Diensten
 
+## Horeca en Winkels
+### Extra aandacht
+### Simpel te implementeren
+
+## Markten
+### Geen extra kosten
+### Internet vereist
+
+!SLIDE center
+# Vragen
+
 ## Ecommerce
 ### Supesimpel te implementeren
 ### Goed te beveiligen
@@ -198,11 +209,6 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 ### Vergelijking met iDeal
 ### Vergelijking met Creditcard
 
-## Horeca en Winkels
-### Extra aandacht
-### Simpel te implementeren
-
-## Markten
-### Geen extra kosten
-### Internet vereist
+!SLIDE center
+# Vragen
 
