@@ -51,7 +51,6 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 [bron: Wikipedia](http://nl.wikipedia.org/wiki/Bitcoin) en [bitcoin wiki](https://en.bitcoin.it/wiki/Main_Page)
 
 !SLIDE
-
 # Video #
 
 [Video](http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video)
@@ -67,6 +66,19 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 * [Satoshi Nakomoto](http://www.mail-archive.com/search?l=cryptography@metzdowd.com&q=from:%22Satoshi+Nakamoto%2)
  mailde een whitepaper.
 * Satoshi is anoniem, pseudoniem.
+* Verscheen in het nieuws rondom SilkRoad
+
+!SLIDE bullets incremental
+* Kreeg momentum, en tech-sites schreven erover.
+* Eerste Wisselkoers bubble.
+* MTgox-inbraak. BTC zelf niet gehacked.
+* Maanden stabiel rond €8
+
+!SLIDE bullets incremental
+* Professionalisering van aanbod
+* Verbreding van aanbod
+* Cyprus; aandacht op alle grote nieuwsoutlets.
+* Boem! €210 per Bitcoin
 
 !SLIDE center
 # Vragen
