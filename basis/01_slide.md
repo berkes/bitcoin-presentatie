@@ -14,6 +14,7 @@
 
 * Staat online [TODO, URL]
 * Is opensource (MIT)
+* Heeft "vraagmomenten" van 5 mins.
 
 !SLIDE bullets incremental
 
@@ -56,6 +57,9 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 [Video](http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video)
 
 !SLIDE center
+# Vragen
+
+!SLIDE center
 # Historie
 
 !SLIDE bullets incremental
@@ -63,6 +67,9 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 * [Satoshi Nakomoto](http://www.mail-archive.com/search?l=cryptography@metzdowd.com&q=from:%22Satoshi+Nakamoto%2)
  mailde een whitepaper.
 * Satoshi is anoniem, pseudoniem.
+
+!SLIDE center
+# Vragen
 
 !SLIDE center
 # Internet
@@ -108,10 +115,16 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 * Hashing power aanpasbaar.
 
 !SLIDE center
+# Vragen
+
+!SLIDE center
 # Miners
 * Dure hardware
 * Goedkope electriciteit
 * Mining-pools
+
+!SLIDE center
+# Vragen
 
 !SLIDE center
 # Economie
@@ -121,6 +134,9 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 
 ## Totale marktwaarde
 ## Deflatie versus Inflatie
+
+!SLIDE center
+# Vragen
 
 # Wisselen
 ## Bitcoin-central
@@ -145,6 +161,9 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 ## Daghandel
 ## Langetermijn investering
 ## Belangenconflict: grilligheid
+
+!SLIDE center
+# Vragen
 
 # Voor verkopers
 ## Niet terugdraaibaar
