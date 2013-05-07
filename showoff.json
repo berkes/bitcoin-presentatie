@@ -1,7 +1,0 @@
-{ 
-  "name": "Bitcoin",
-  "sections": [
-    { "section":"basis" },
-    { "section":"betalen" }
-  ]
-}
