@@ -94,9 +94,16 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 !SLIDE bullets incremental
 * Verificatie van block en volgorde.
 * Berekenen van de hashes van blocks.
-* De eerste die een heel specifieke hash van het block vind wint.
-* Netwerk tracht iedere 10 minuten block te laten vinden.
+* Eerste die een berekening met het block kan oplossen, wint.
 * Krijgt reward (nu 25 BTC).
+
+!SLIDE bullets incremental
+* Meerderheid van het netwerk moet accoord gaan met hash
+* Meerderheid moet accoord gaan met block
+* X moeten accoord gaan met transactie
+
+!SLIDE bullets incremental
+* Netwerk tracht iedere 10 minuten block te laten vinden.
 * Halveert iedere 210.000 BTC tot totaal 21 million.
 * Hashing power aanpasbaar.
 
