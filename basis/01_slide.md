@@ -17,6 +17,15 @@
 * Heeft "vraagmomenten" van 5 mins.
 * Is niet getest; qua tijd. Graag iedere 20 mins een seintje?
 
+!SLIDE bullets
+# Overzicht
+
+* Introductie
+* Geschiedenis
+* Basis
+** Decentraal, Peer to Peer
+** Mining, Cryptografie
+
 !SLIDE bullets incremental
 
 * HASH?
