@@ -133,15 +133,6 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 # Vragen
 
 !SLIDE center
-# Miners
-* Dure hardware
-* Goedkope electriciteit
-* Mining-pools
-
-!SLIDE center
-# Vragen
-
-!SLIDE center
 # Economie
 
 !SLIDE center
@@ -157,6 +148,15 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 ## Bitcoin-central
 ## MTgox
 ## OTC
+
+!SLIDE center
+# Voor miners
+* Dure hardware
+* Goedkope electriciteit
+* Mining-pools
+
+!SLIDE center
+# Vragen
 
 # Voor gebruikers
 ## Zelf doen
