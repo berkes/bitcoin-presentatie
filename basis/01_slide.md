@@ -94,13 +94,6 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 # Vragen
 
 !SLIDE center
-# Internet
-
-!SLIDE bullets incremental
-* Maakt gebruik van simpele web-technologie.
-* Is cryptografisch brilliant en complex.
-
-!SLIDE center
 # Decentraal, Peer-to-peer
 
 !SLIDE small
