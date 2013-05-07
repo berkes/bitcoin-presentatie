@@ -65,12 +65,13 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 * Keten, lijst van blokken
 
 !SLIDE bullets incremental
-* Verificatie van block en volgorde
-* Berekenen van de hashes van blocks
+* Verificatie van block en volgorde.
+* Berekenen van de hashes van blocks.
 * De eerste die een heel specifieke hash van het block vind wint.
-* Krijgt reward (nu 25 BTC)
-* Halveert iedere 210.000 BTC tot totaal 21 million
-* Hashing power aanpasbaar
+* Netwerk tracht iedere 10 minuten block te laten vinden.
+* Krijgt reward (nu 25 BTC).
+* Halveert iedere 210.000 BTC tot totaal 21 million.
+* Hashing power aanpasbaar.
 
 !SLIDE center
 # Miners
