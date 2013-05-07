@@ -1,19 +1,46 @@
 !SLIDE
 
-# Bitcoin # 
+# Bitcoin
 
 !SLIDE bullets incremental
-# Over mij #
+# Over mij
 
 * Bèr `berkes` Kessels
 * @berkes - http://berk.es
 * Webdeveloper, geen econoom.
 
 !SLIDE bullets incremental
-# Deze presentatie #
+# Deze presentatie
 
 * Staat online [TODO, URL]
 * Is opensource (MIT)
+
+!SLIDE bullets incremental
+
+* HASH?
+* Iets wat je kan roken (of cake van kan bakken), toch?
+* Iets cryptografish, toch?
+* Iets met wachtwoorden, toch?
+* Iets waarvan veel diverse uitvoeringen zijn, toch?
+
+!SLIDE bullets incremental
+
+* Hayek?
+* Die filmster?
+* Een of andere president?
+* Econoom?
+* Tegenstander van Keynesianen?
+* Maratonrenners, toch?
+
+!SLIDE bullets incremental
+
+* Security?
+* Moest ik niet ergens drie keer op kloppen?
+* Ik heb een firewall en vijf virusscanners, dat, toch?
+* Yubykey hangt aan mijn sleutelbos, private keys liggen thuis in de kluis.
+
+!SLIDE center
+# Achtergrond
 
 !SLIDE smaller
 
