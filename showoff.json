@@ -2,6 +2,7 @@
   "name": "Bitcoin",
   "sections": [
     { "section":"basis" },
+    { "section":"gebruik" },
     { "section":"betalen" }
   ]
 }
