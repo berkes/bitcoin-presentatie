@@ -1,6 +1,6 @@
 !SLIDE
 
-# Betalen met Bitcoin # 
+# Betalen met Bitcoin #
 
 !SLIDE bullets incremental
 
