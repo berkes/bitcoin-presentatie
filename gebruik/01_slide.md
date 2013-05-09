@@ -1,71 +1,81 @@
 !SLIDE center
 # Gebruik
 
+!SLIDE incremental
 # Wisselen
-## Bitcoin-central
-## MTgox
-## OTC
+* Bitcoin-central
+* MTgox
+* OTC
 
-!SLIDE center
+!SLIDE incremental
 # Voor miners
 * Dure hardware
 * Goedkope electriciteit
 * Mining-pools
 
-!SLIDE center
+!SLIDE
 # Vragen
 
+!SLIDE
 # Voor gebruikers
-## Zelf doen
-## Diensten, Banken
-## Hybride
-## Waardevolst voor de economie
-## Plekken waar te betalen
+* Zelf doen
+* Diensten, Banken
+* Hybride
+* Waardevolst voor de economie
+* Plekken waar te betalen
 
+!SLIDE
 # Voor spaarders
-## Deflatie
-## Zelf doen
-## Diensten, Banken
-## Paper, Brain en alternatieve wallets
-## GEVAAR!
+* Deflatie
+* Zelf doen
+* Diensten, Banken
+* Paper, Brain en alternatieve wallets
+* GEVAAR!
 
+!SLIDE
 # Voor handelaars
-## Daghandel
-## Langetermijn investering
-## Belangenconflict: grilligheid
+* Daghandel
+* Langetermijn investering
+* Belangenconflict: grilligheid
 
-!SLIDE center
+!SLIDE
 # Vragen
 
+!SLIDE
 # Voor verkopers
-## Niet terugdraaibaar
-## Heel grillig
-## Geen fees
-## Nul kosten
-## Zelf doen
-## Paper wallets
-## Offline wallets
-## Diensten
+* Niet terugdraaibaar
+* Heel grillig
+* Geen fees
+* Nul kosten
 
-## Horeca en Winkels
-### Extra aandacht
-### Simpel te implementeren
+!SLIDE
+# Voor verkopers
+* Zelf doen
+* Paper wallets
+* Offline wallets
+* Diensten ([bitpay](https://bitpay.com/)
 
-## Markten
-### Geen extra kosten
-### Internet vereist
+!SLIDE
+# Horeca en Winkels
+* Extra aandacht
+* Simpel te implementeren
 
-!SLIDE center
+!SLIDE
+# Markten
+* Geen extra kosten
+* Internet vereist
+
+!SLIDE
 # Vragen
 
-## Ecommerce
-### Supesimpel te implementeren
-### Goed te beveiligen
-### Micropayments uiterst eenvoudig
-### Vergelijking met Paypal
-### Vergelijking met iDeal
-### Vergelijking met Creditcard
+!SLIDE
+# Ecommerce
+* Supesimpel te implementeren
+* Goed te beveiligen
+* Micropayments uiterst eenvoudig
+* Vergelijking met Paypal
+* Vergelijking met iDeal
+* Vergelijking met Creditcard
 
-!SLIDE center
+!SLIDE
 # Vragen
-
