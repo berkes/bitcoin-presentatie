@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE title
 
 # Betalen met Bitcoin #
 

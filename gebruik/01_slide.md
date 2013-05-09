@@ -1,4 +1,4 @@
-!SLIDE center
+!SLIDE title
 # Gebruik
 
 !SLIDE incremental
@@ -13,7 +13,7 @@
 * Goedkope electriciteit
 * Mining-pools
 
-!SLIDE
+!SLIDE title
 # Vragen
 
 !SLIDE
@@ -38,7 +38,7 @@
 * Langetermijn investering
 * Belangenconflict: grilligheid
 
-!SLIDE
+!SLIDE title
 # Vragen
 
 !SLIDE
@@ -65,7 +65,7 @@
 * Geen extra kosten
 * Internet vereist
 
-!SLIDE
+!SLIDE title
 # Vragen
 
 !SLIDE
@@ -77,5 +77,5 @@
 * Vergelijking met iDeal
 * Vergelijking met Creditcard
 
-!SLIDE
+!SLIDE title
 # Vragen

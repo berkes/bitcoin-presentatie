@@ -56,10 +56,10 @@
 * Gewoon, NortonCleanSweepDeluxe--==CRAcK3DByL33t==-- draaien.
 * Yubykey hangt aan mijn sleutelbos, private keys liggen thuis in de kluis.
 
-!SLIDE center
+!SLIDE title
 # Achtergrond
 
-!SLIDE smaller
+!SLIDE text
 
 Bitcoin is een *experimentele* vorm van *elektronisch geld*, [...] (welke) naar een ander persoon (kan) worden verzonden *via het internet* door *iedereen met een Bitcoinadres*.
 
@@ -71,10 +71,10 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 
 [Video](http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video)
 
-!SLIDE center
+!SLIDE title
 # Vragen
 
-!SLIDE center
+!SLIDE title
 # Historie
 
 !SLIDE bullets incremental
@@ -96,11 +96,11 @@ In tegenstelling tot de meeste valuta is Bitcoin niet afhankelijk van het vertro
 * Cyprus; aandacht op alle grote nieuwsoutlets.
 * Boem! €210 per Bitcoin
 
-!SLIDE center
+!SLIDE title
 # Vragen
 
-!SLIDE center
-# Decentraal, Peer-to-peer
+!SLIDE title
+## Decentraal, Peer-to-peer
 
 !SLIDE small
 De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie maakt het praktisch onmogelijk voor een overheid, of ieder ander, om de waarde van Bitcoins te manipuleren of meer inflatie te induceren dan er van tevoren is vastgelegd. Het ontwerp zorgt voor anoniem eigendom en overdracht van waarde.
@@ -112,7 +112,7 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 * En van waar naar waar die coins (of fracties daarvan) gaan.
 * Anoniem?
 
-!SLIDE center
+!SLIDE title
 # Mining
 
 !SLIDE bullets incremental
@@ -135,17 +135,20 @@ De peer-to-peertopologie van Bitcoin en het ontbreken van centrale administratie
 * Halveert iedere 210.000 BTC tot totaal 21 million.
 * Hashing power aanpasbaar.
 
-!SLIDE center
+!SLIDE title
 # Vragen
 
-!SLIDE center
+!SLIDE title
 # Economie
+
+!SLIDE
+## Totale marktwaarde
 
 !SLIDE center
 ![Total Bitcoins](img/Total_bitcoins_over_time_graph.png)
 
-## Totale marktwaarde
-## Deflatie versus Inflatie
+!SLIDE title
+# Deflatie versus Inflatie
 
-!SLIDE center
+!SLIDE title
 # Vragen
