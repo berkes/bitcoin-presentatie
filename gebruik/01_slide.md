@@ -53,7 +53,7 @@
 * Zelf doen
 * Paper wallets
 * Offline wallets
-* Diensten ([bitpay](https://bitpay.com/)
+* Diensten ([bitpay](https://bitpay.com/))
 
 !SLIDE
 # Horeca en Winkels

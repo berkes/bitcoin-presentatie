@@ -19,14 +19,14 @@
 * Geeft mij €
 * Ik maak het over naar je telefoon of wallet.
 * Netwerk vereist voor het ontvangen!
-* (Anders komt het pas binnen zogauw je internet hebt)
+* Anders komt het pas binnen wanneer je internet hebt
 
 !SLIDE bullets incremental
 
 * Betalen met QR-code-blad.
-* Of door t adres over te tikken.
+* Of door het adres over te nemen.
 
 !SLIDE bullets incremental
 
-* Ik wissel aant eind de kassa in voor Euro`s
-* Gewoon met Euros betalen kan ook
+* Ik wissel aant eind de kassa in voor €
+* Gewoon met € betalen kan ook
