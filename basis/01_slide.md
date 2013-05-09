@@ -27,27 +27,33 @@
 ** Mining, Cryptografie
 
 !SLIDE bullets incremental
-
+# Cryptografie
 * HASH?
-* Iets wat je kan roken (of cake van kan bakken), toch?
-* Iets cryptografish, toch?
-* Iets met wachtwoorden, toch?
-* Iets waarvan veel diverse uitvoeringen zijn, toch?
+
+!SLIDE center
+![Hash](img/hash01.jpg)
+
+!SLIDE center
+![Hash](img/hash01.jpg)
 
 !SLIDE bullets incremental
-
+# Economie
 * Hayek?
-* Die filmster?
-* Een of andere president?
-* Econoom?
-* Tegenstander van Keynesianen?
-* Maratonrenners, toch?
+
+!SLIDE center
+![Hayek](img/hayek01.jpg)
+
+!SLIDE center
+![Hayek](img/hayek02.jpg)
+
+!SLIDE center
+![Keynesian](img/keynesian.jpg)
 
 !SLIDE bullets incremental
+# Beveiliging
 
-* Security?
 * Moest ik niet ergens drie keer op kloppen?
-* Ik heb een firewall en vijf virusscanners, dat, toch?
+* Gewoon, NortonCleanSweepDeluxe--==CRAcK3DByL33t==-- draaien.
 * Yubykey hangt aan mijn sleutelbos, private keys liggen thuis in de kluis.
 
 !SLIDE center
