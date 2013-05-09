@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic|Arvo:400,400italic,700);
+
+#preso, .slide, .content {
+  background-color: black;
+}
+.content {
+  color: white;
+  font-family: 'Arvo', serif;
+}
+.content.text > p {
+  text-align: justify;
+}
+.content.title {
+  font-size:2em;
+}
+h1, h2 {
+  color: white;
+  font-family: 'Sorts Mill Goudy', serif;
+}
+#footer {
+  border-top: 1px solid #333;
+  background: black;
+}
+em {
+  background-color: #698B69;
+  border-radius: 2px;
+  font-style:normal;
+}
+a {
+  color: #698B69;
+}
