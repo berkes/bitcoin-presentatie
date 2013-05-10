@@ -51,8 +51,8 @@
 !SLIDE
 # Voor verkopers
 * Zelf doen
-* Paper wallets
-* Offline wallets
+* [Paper wallets](https://bitcoinpaperwallet.com/)
+* Offline wallets (watch only)
 * Diensten ([bitpay](https://bitpay.com/))
 
 !SLIDE
