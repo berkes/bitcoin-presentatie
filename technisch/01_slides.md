@@ -3,8 +3,9 @@
     @@@ ruby
     expected_hash = 000012345
     payload = "The Blockchain" + 
-              "The sha-sum of the last block"
-              "An extra transaction where I get BTC 25"
+              "The sha of last block"
+              "An extra transaction..."
+              "... where I get BTC 25"
     nonce = 1
 
     untill(hash == expected_hash) {
