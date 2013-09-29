@@ -84,44 +84,7 @@
 </div>
 
 <div id="slides" class="offscreen" style="display:none;">
-<div class="slide" data-transition="none"><div class="content title" ref="betalen/01_slide/1">
-<h1>Betalen met Bitcoin</h1>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="betalen/01_slide/2">
-<ul>
-<li>Praktisch</li>
-<li>Ik wissel</li>
-<li>Jullie betalen je bier, koffie ermee.</li>
-</ul>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="betalen/01_slide/3">
-<ul>
-<li>Maar een paar tientjes mee.</li>
-<li>Dus niet meer dan paar &#x20AC; pp</li>
-</ul>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="betalen/01_slide/4">
-<ul>
-<li>Hoe?</li>
-<li>Geeft mij &#x20AC;</li>
-<li>Ik maak het over naar je telefoon of wallet.</li>
-<li>Netwerk vereist voor het ontvangen!</li>
-<li>Anders komt het pas binnen wanneer je internet hebt</li>
-</ul>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="betalen/01_slide/5">
-<ul>
-<li>Betalen met QR-code-blad.</li>
-<li>Of door het adres over te nemen.</li>
-</ul>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="betalen/01_slide/6">
-<ul>
-<li>Ik wissel aant eind de kassa in voor &#x20AC;</li>
-<li>Gewoon met &#x20AC; betalen kan ook</li>
-</ul>
-</div>
-</div><div class="slide" data-transition="none"><div class="content" ref="basis/01_slide/1">
+<div class="slide" data-transition="none"><div class="content" ref="basis/01_slide/1">
 <h1>Bitcoin</h1>
 </div>
 </div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="basis/01_slide/2">
@@ -140,7 +103,6 @@
 <li>Staat online <a href="berk.es/bitcoin-presentatie/">http://berk.es/bitcoin-presentatie/</a></li>
 <li>Is opensource (MIT) <a href="http://github.com/berkes/bitcoin-presentatie">github.com/berkes/bitcoin-presentatie</a></li>
 <li>Heeft "vraagmomenten" van 5 mins.</li>
-<li>Is niet getest; qua tijd. Graag iedere 20 mins een seintje?</li>
 </ul>
 </div>
 </div><div class="slide" data-transition="none"><div class="content bullets" ref="basis/01_slide/4">
@@ -215,7 +177,9 @@ uitgegeven</em> kan worden door die eigenaar.</p>
 <p><a href="http://nl.wikipedia.org/wiki/Bitcoin">bron: Wikipedia</a> en <a href="https://en.bitcoin.it/wiki/Main_Page">bitcoin wiki</a></p>
 </div>
 </div><div class="slide" data-transition="none"><div class="content" ref="basis/01_slide/15">
-<p><a href="http://embedded-video.guardianapps.co.uk/?a=false&amp;amp;u=/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video">Video</a></p>
+<p><a href="http://www.theguardian.com/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video">Video</a></p>
+
+<p>(<a href="file://../res/250413bitcoinberlin-16x9.mp4">Op Disk</a>)</p>
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/16">
 <h1>Vragen</h1>
@@ -312,13 +276,29 @@ te induceren dan er van tevoren is vastgelegd. Het ontwerp zorgt voor
 <h2>Totale marktwaarde</h2>
 </div>
 </div><div class="slide" data-transition="none"><div class="content center" ref="basis/01_slide/33">
-<p><img src="./file/basis/img/Total_bitcoins_over_time_graph.png" width="969" height="785" alt="Total Bitcoins"/>
+<p><img src="./file/basis/img/Total_bitcoins_over_time_graph.png" width="741" height="600" alt="Total Bitcoins"/>
 </p>
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/34">
 <h1>Deflatie versus Inflatie</h1>
+
+<ul>
+<li>Bij inflatie "pakt overheid" waarde af, door geld bij te drukken.</li>
+<li>Bij inflatie kan overheid (en priv&#xE9;-insttituten zaals The Fed in de VS) hiermee sturen.</li>
+<li>Inflatie pusht mensen om geld uit te geven: sparen is stelen van
+jezelf. Lenen is beter. (Overheden en grote bedrijven leven daarom
+altijd in de schulden)</li>
+</ul>
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/35">
+<h1>Deflatie versus Inflatie</h1>
+
+<ul>
+<li>Bij deflatie is lenen (investering voor startende onderneming) onvoordelig.</li>
+<li>Sparen is voordelig.</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/36">
 <h1>Vragen</h1>
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="gebruik/01_slide/1">
@@ -435,9 +415,9 @@ te induceren dan er van tevoren is vastgelegd. Het ontwerp zorgt voor
 </div>
 </div><div class="slide" data-transition="none"><div class="content code" ref="technisch/01_slides">
 <pre class="sh_ruby"><code>expected_hash = 000012345
-payload = "data related to"
-          " things happening"
-          " on the Bitcoin network"
+payload = "The Blockchain" + 
+          "The sha-sum of the last block"
+          "An extra transaction where I get BTC 25"
 nonce = 1
 
 untill(hash == expected_hash) {
@@ -445,7 +425,8 @@ untill(hash == expected_hash) {
   nonce = nonce + 1
 }
 
-"Found it!"</code></pre>
+print "Found it!"
+announce_to_network(nonce, payload)</code></pre>
 </div>
 </div></div>
 <div id="pauseScreen">
