@@ -15,7 +15,6 @@
 * Staat online [http://berk.es/bitcoin-presentatie/](berk.es/bitcoin-presentatie/)
 * Is opensource (MIT) [github.com/berkes/bitcoin-presentatie](http://github.com/berkes/bitcoin-presentatie)
 * Heeft "vraagmomenten" van 5 mins.
-* Is niet getest; qua tijd. Graag iedere 20 mins een seintje?
 
 !SLIDE bullets
 # Overzicht
