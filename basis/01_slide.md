@@ -163,5 +163,17 @@ te induceren dan er van tevoren is vastgelegd. Het ontwerp zorgt voor
 !SLIDE title
 # Deflatie versus Inflatie
 
+* Bij inflatie "pakt overheid" waarde af, door geld bij te drukken.
+* Bij inflatie kan overheid (en privé-insttituten zaals The Fed in de VS) hiermee sturen.
+* Inflatie pusht mensen om geld uit te geven: sparen is stelen van
+  jezelf. Lenen is beter. (Overheden en grote bedrijven leven daarom
+altijd in de schulden)
+
+!SLIDE title
+# Deflatie versus Inflatie
+
+* Bij deflatie is lenen (investering voor startende onderneming) onvoordelig.
+* Sparen is voordelig.
+
 !SLIDE title
 # Vragen
