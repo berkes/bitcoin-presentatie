@@ -74,7 +74,10 @@ uitgegeven* kan worden door die eigenaar.
 [bron: Wikipedia](http://nl.wikipedia.org/wiki/Bitcoin) en [bitcoin wiki](https://en.bitcoin.it/wiki/Main_Page)
 
 !SLIDE
-[Video](http://embedded-video.guardianapps.co.uk/?a=false&amp;u=/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video)
+[Video](http://www.theguardian.com/technology/video/2013/apr/26/bitcoin-currency-moves-offline-berlin-video)
+
+([Op Disk](file://../res/250413bitcoinberlin-16x9.mp4))
+
 
 !SLIDE title
 # Vragen
