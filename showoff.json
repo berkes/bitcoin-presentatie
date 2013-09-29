@@ -1,7 +1,6 @@
 { 
   "name": "Bitcoin",
   "sections": [
-    { "section":"betalen" },
     { "section":"basis" },
     { "section":"gebruik" },
     { "section":"technisch" }
