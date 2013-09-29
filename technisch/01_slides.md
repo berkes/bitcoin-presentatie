@@ -2,9 +2,9 @@
 
     @@@ ruby
     expected_hash = 000012345
-    payload = "data related to"
-              " things happening"
-              " on the Bitcoin network"
+    payload = "The Blockchain" + 
+              "The sha-sum of the last block"
+              "An extra transaction where I get BTC 25"
     nonce = 1
 
     untill(hash == expected_hash) {
@@ -12,4 +12,5 @@
       nonce = nonce + 1
     }
 
-    "Found it!"
+    print "Found it!"
+    announce_to_network(nonce, payload)
