@@ -281,7 +281,8 @@ te induceren dan er van tevoren is vastgelegd. Het ontwerp zorgt voor
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/34">
 <h1>Deflatie versus Inflatie</h1>
-
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="basis/01_slide/35">
 <ul>
 <li>Bij inflatie "pakt overheid" waarde af, door geld bij te drukken.</li>
 <li>Bij inflatie kan overheid (en priv&#xE9;-insttituten zaals The Fed in de VS) hiermee sturen.</li>
@@ -290,15 +291,13 @@ jezelf. Lenen is beter. (Overheden en grote bedrijven leven daarom
 altijd in de schulden)</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/35">
-<h1>Deflatie versus Inflatie</h1>
-
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="basis/01_slide/36">
 <ul>
 <li>Bij deflatie is lenen (investering voor startende onderneming) onvoordelig.</li>
 <li>Sparen is voordelig.</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/36">
+</div><div class="slide" data-transition="none"><div class="content title" ref="basis/01_slide/37">
 <h1>Vragen</h1>
 </div>
 </div><div class="slide" data-transition="none"><div class="content title" ref="gebruik/01_slide/1">
@@ -416,8 +415,9 @@ altijd in de schulden)</li>
 </div><div class="slide" data-transition="none"><div class="content code" ref="technisch/01_slides">
 <pre class="sh_ruby"><code>expected_hash = 000012345
 payload = "The Blockchain" + 
-          "The sha-sum of the last block"
-          "An extra transaction where I get BTC 25"
+          "The sha of last block"
+          "An extra transaction..."
+          "... where I get BTC 25"
 nonce = 1
 
 untill(hash == expected_hash) {
